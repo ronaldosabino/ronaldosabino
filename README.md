@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-# 👋 Olá! Eu sou o Ronaldo Sabino
+# Olá! Eu sou o Ronaldo Sabino
 
 💻 Desenvolvedor Frontend • Angular • Interfaces Modernas  
 🚀 Criando experiências digitais responsivas e funcionais
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨🏽‍💻 Sobre mim
 
 Sou Desenvolvedor Front-End apaixonado por tecnologia e construção de interfaces modernas.  
 Tenho foco em criar aplicações web bem estruturadas, responsivas e com ótima experiência do usuário.
@@ -40,10 +40,10 @@ Atualmente, estou aprofundando meus conhecimentos em:
 
 ## 🎓 Formação
 
-📌 **Pós-Graduação em Engenharia de Software**  
+📌 **Pós-Graduação Lato Sensu em Engenharia de Software**  
 📍 Conclusão: Dezembro de 2025
 
-📌 **Análise e Desenvolvimento de Sistemas**  
+📌 **Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas**  
 📍 Conclusão: Outubro de 2024
 
 
@@ -82,7 +82,7 @@ Atuação no desenvolvimento de aplicações web utilizando:
 
 - Git & GitHub  
 - Figma  
-- k6 Grafana
+- K6 Grafana
 
 ---
 
@@ -90,7 +90,7 @@ Atuação no desenvolvimento de aplicações web utilizando:
 
 Vamos nos conectar!
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/ronaldo-sabino-62053423b/]([https://linkedin.com](https://www.linkedin.com/in/ronaldo-sabino-62053423b/))
+- 💼 LinkedIn: [https://www.linkedin.com/in/ronaldo-sabino-62053423b/]([https://linkedin.com](https://www.linkedin.com/in/ronaldo-sabino-62053423b/)
 - 📧 Email: filiperonaldo1@gmail.com
 - 🌐 GitHub: [github.com/ronaldosabino](https://github.com/ronaldosabino)
 
