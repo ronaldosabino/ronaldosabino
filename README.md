@@ -93,6 +93,7 @@ Vamos nos conectar!
 - 💼 LinkedIn: [https://www.linkedin.com/in/ronaldo-sabino-62053423b/](https://www.linkedin.com/in/ronaldo-sabino-62053423b/)
 - 📧 Email: filiperonaldo1@gmail.com
 - 🌐 GitHub: [github.com/ronaldosabino](https://github.com/ronaldosabino)
+- ®️ Portfólio: [https://ronaldosbn.netlify.app/](https://ronaldosbn.netlify.app/)
 
 ---
 
