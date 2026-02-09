@@ -44,7 +44,7 @@ Atualmente, estou aprofundando meus conhecimentos em:
 📍 Conclusão: Dezembro de 2025
 
 📌 **Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas**  
-📍 Conclusão: Outubro de 2024
+📍 Conclusão: Junho de 2024
 
 
 Formações voltadas para desenvolvimento de software, arquitetura de sistemas, banco de dados e engenharia de aplicações web.
