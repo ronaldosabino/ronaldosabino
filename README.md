@@ -90,7 +90,7 @@ Atuação no desenvolvimento de aplicações web utilizando:
 
 Vamos nos conectar!
 
-- 💼 LinkedIn: [in/ronaldo-sabino-62053423b/](https://www.linkedin.com/in/ronaldo-sabino-62053423b/)
+- 💼 LinkedIn: [in/ronaldo-sabino-62053423b/](https://www.linkedin.com/in/ronaldo-sabino)
 - 📧 Email: filiperonaldo1@gmail.com
 - 🌐 GitHub: [github.com/ronaldosabino](https://github.com/ronaldosabino)
 - ®️ Portfólio: [ronaldosbn.netlify.app/](https://ronaldosbn.netlify.app/)
